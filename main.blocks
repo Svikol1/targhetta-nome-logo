@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Uc0)=c(OoK+m135T6y1P" x="0" y="0"></block><block type="device_forever" id="7$r^RWU.!]k-Gv4Q,F%`" x="295" y="61"></block><block type="device_button_event" id="-0O%;}]dhS/Nqi{M?AZt" x="6" y="191"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="s~}F2qQoZCX9fC`6Ya%#"><value name="text"><shadow type="text" id="L{U;f71@d1L|g={kzBux"><field name="TEXT">ANDREA</field></shadow></value></block></statement></block><block type="device_button_event" id="RhfY-9/0k;_o5As9p^^7" x="333" y="206"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="controls_repeat_ext" id="4u#mfO)+5;kbnSs6J4z("><value name="TIMES"><shadow type="math_whole_number" id="cQ=M=L_ZN%|tKJ?r3VU@"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="device_show_leds" id="kD6Cv2zWiVja66|dOpJk"><field name="LEDS">`
+        # . . . # 
+        # . # . # 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="LMwLzZm:x0}]vJT$]-~;"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        # . # . # 
+        # . . . #
+        `</field></block></next></block></statement><next><block type="device_clear_display" id="zVXWCN0o+3jN*B=[`ov@"><next><block type="device_print_message" id="IK_qS*sk7S}PG=%3]ad="><value name="text"><shadow type="text" id="M8Smfs)A6x9zbK{9cLI4"><field name="TEXT">ANDREA</field></shadow></value><next><block type="controls_repeat_ext" id="@cUt5Y*~Fak8fVU201Au"><value name="TIMES"><shadow type="math_whole_number" id="f2U~]eyZ~[4QERaFa@@l"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="device_show_leds" id="pL)#Y_.R)gN(1,VwTM;p"><field name="LEDS">`
+        # . . . # 
+        # . # . # 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="u((k|_Xw~dC5iXz@B#xF"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        # . # . # 
+        # . . . #
+        `</field></block></next></block></statement><next><block type="device_clear_display" id=",7b9LyDE+qgl4+gw1aXS"></block></next></block></next></block></next></block></next></block></statement></block></xml>
